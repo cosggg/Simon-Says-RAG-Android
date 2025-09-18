@@ -1,4 +1,4 @@
-# Simon-Says-Android
+# Simon-Says-RAG-Android
 
 An Android App recreating the Simon Says game. Uses MediaPipe to run the Gemma3 1b LLM and a RAG pipeline on device.  📣 🦾
 
